@@ -1,6 +1,6 @@
 - 👋 Hi, I’m K. Haniel. 
 - 👀 I’m interested in solving real life problems by employing computer programming. 
-- 🌱 I’m currently learning software and web development at Chuka University. 
+- 🌱 I studied software and web development at Chuka University. 
 - 💞️ I’m looking to collaborate on software development and always ready to learn. 
 - 📫 Reach me out on email: ngangakehlani28@gmail.com
 
